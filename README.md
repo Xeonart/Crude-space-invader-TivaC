@@ -13,3 +13,9 @@
 ### the game world with movements and trigerred actions.
 ### The main thread refreshes the screen buffer then displays it and checks for the levels
 ### and the end game.
+### _____________________________________________________________________________________________
+### The development enviroment i used to make this project is KEIL-MDK-4.7 the evaluation version.
+### _____________________________________________________________________________________________
+### Here is a link of me running the game fully on a simualated enviroment on my pc --> https://youtu.be/pU9qwnmwMx8
+### Note: 
+### Since the game is run on simulated hardware it is at least five times slower than on real hardware.
